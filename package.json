@@ -1,6 +1,6 @@
 {
-  "name": "remark-heading-id",
-  "version": "1.0.1",
+  "name": "remark-heading-default-id",
+  "version": "1.0.0",
   "main": "index.js",
   "description": "The remark plugin for supporting custom heading id also including default id",
   "author": "spikeon <spikeon@gmail.com>",
@@ -29,7 +29,7 @@
     "custom"
   ],
   "license": "MIT",
-  "repository": "spikeon/remark-heading-id",
+  "repository": "spikeon/remark-heading-default-id",
   "jest": {
     "testMatch": [
       "**/__test{s,}__/*.(spec|test).{t,j}s{x,}"

@@ -1,4 +1,4 @@
-# remark-heading-id
+# remark-heading-default-id
 
 > The remark plugin for supporting [custom heading id](https://www.markdownguide.org/extended-syntax/#heading-ids) and Default Id
 
