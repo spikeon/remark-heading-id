@@ -1,7 +1,7 @@
 /**
  * @file main
- * @author imcuttle
- * @date 2018/4/4
+ * @author spikeon
+ * @date 2023/8/15
  */
 const remark = require('remark')
 const stringify = require('remark-rehype')

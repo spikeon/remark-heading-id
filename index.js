@@ -1,6 +1,6 @@
 /**
  * The remark plugin for supporting custom id and default id
- * @author imcuttle
+ * @author imcuttle, spikeon
  */
 
 const visit = require('unist-util-visit')
